@@ -27,7 +27,7 @@ christian alexis lucero sanchez
 <allow-intent href="https://*/*"/>
 <acces origin="https://*/*"/>
 <allow-intent href="http://*/*"/>
-<plugin name"cordova-plugin-whitelist" source="npm"/>
+<plugin name="cordova-plugin-whitelist" source="npm"/>
 
 <!--Plugins -->
 <!-- Core plugins -->
